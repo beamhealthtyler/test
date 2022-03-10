@@ -1,6 +1,6 @@
 {
   "name": "starter-project",
-   "homepage": "https://github.com/beamhealthtyler/test/",
+   "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
